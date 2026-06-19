@@ -1,4 +1,4 @@
-/**
+/*
  * roster.js — Team Roster profile data and detail modal controllers.
  */
 
@@ -9,9 +9,9 @@ const biosData = {
     name: "Nur Mohammad Zaarr L. Iraji",
     profession: "FULLSTACK_ENGINEER",
     desc: "Specialized in structuring high-performance architectures, complex backend logic, and scalable full-stack web platforms. Core developer of TABI_OS.",
-    github: "#",
-    linkedin: "#",
-    gmail: "mailto:zaarr.iraji@gmail.com"
+    github: "https://github.com/meekoUrabe",
+    linkedin: "https://www.linkedin.com/in/zaarr06/",
+    gmail: "mailto:zaarr06@gmail.com"
   },
   "002_TABI": {
     name: "Brian P. Saavedra",
