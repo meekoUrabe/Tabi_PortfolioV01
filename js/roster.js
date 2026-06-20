@@ -14,7 +14,7 @@ const biosData = {
     gmail: "mailto:zaarr06@gmail.com"
   },
   "002_TABI": {
-    name: "Brian P. Saavedra",
+    name: "Bryan P. Saavedra",
     profession: "FULLSTACK_ENGINEER",
     desc: "Expert in MERN stack architectures, responsive user interfaces, real-time database management, and secure third-party payment gateways.",
     github: "https://github.com/BrianC0des",
