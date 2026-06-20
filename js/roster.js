@@ -17,9 +17,9 @@ const biosData = {
     name: "Brian P. Saavedra",
     profession: "FULLSTACK_ENGINEER",
     desc: "Expert in MERN stack architectures, responsive user interfaces, real-time database management, and secure third-party payment gateways.",
-    github: "#",
-    linkedin: "#",
-    gmail: "mailto:brian.saavedra@gmail.com"
+    github: "https://github.com/BrianC0des",
+    linkedin: "www.linkedin.com/in/bryan-saavedra-3b36b518a",
+    gmail: "mailto:bryansaavedrab272@gmail.com"
   },
   "003_TABI": {
     name: "Landis Angelo J. Tarro",
