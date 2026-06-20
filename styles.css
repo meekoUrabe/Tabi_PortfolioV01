@@ -1821,7 +1821,6 @@ body.mobile-nav-active .mobile-nav-overlay {
 .bio-modal-content,
 .project-modal-content {
   width: 100%;
-  max-width: 480px;
   background-color: #0c0c0c;
   border: 1px solid rgba(255, 255, 255, 0.2);
   padding: 28px;
@@ -1832,9 +1831,40 @@ body.mobile-nav-active .mobile-nav-overlay {
   transition: transform 300ms cubic-bezier(0.16, 1, 0.3, 1);
 }
 
+.bio-modal-content {
+  max-width: 480px;
+}
+
+.project-modal-content {
+  max-width: 640px;
+}
+
 .bio-modal.bio-modal--active .bio-modal-content,
 .project-modal.project-modal--active .project-modal-content {
   transform: translateY(0);
+}
+
+/* Contributors list grid */
+.project-contributors-list {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 10px 16px;
+  margin-top: 4px;
+}
+
+@media (min-width: 480px) {
+  .project-contributors-list {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+.contributor-item {
+  font-family: var(--font-display);
+  font-size: 14px;
+  font-weight: 500;
+  color: #ffffff;
+  display: flex;
+  align-items: center;
 }
 
 .bio-modal-header,
