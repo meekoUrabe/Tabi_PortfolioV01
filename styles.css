@@ -114,6 +114,7 @@
 
 html {
   scroll-behavior: smooth;
+  overflow-x: hidden;
 }
 
 body {
@@ -503,6 +504,7 @@ body.mobile-nav-active {
   flex-direction: column;
   justify-content: center;
   padding: 0 24px;
+  overflow: hidden;
 }
 
 .hero-decorator {
