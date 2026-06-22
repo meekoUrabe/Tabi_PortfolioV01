@@ -39,11 +39,11 @@ const biosData = {
   },
   "005_TABI": {
     name: "Norielle John Buhawe",
-    profession: "DATA_ANALYST",
-    desc: "Performs system logic research, gameplay architecture verification, vector math calibrations, and gaming performance simulations.",
-    github: "#",
-    linkedin: "#",
-    gmail: "mailto:nori.buhawe@gmail.com"
+    profession: "FULLSTACK_ENGINEER",
+    desc: "Architects and develops full-stack applications, validates system design and business logic, optimizes performance, and delivers scalable, reliable software solutions across frontend, backend, and cloud infrastructure.",
+    github: "https://github.com/Itzsssnori",
+    linkedin: "www.linkedin.com/in/norielle-john-buhawe-256b373b8",
+    gmail: "mailto:buhawenoriellejohnd@gmail.com"
   }
 };
 
